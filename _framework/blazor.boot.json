@@ -35,7 +35,7 @@
       "ObserverLibrary.dll": "sha256-u9AvGerHsxVzGpucWCzVfDZfrT4KT6eAaL\/qeXmo6fg=",
       "Postgrest.dll": "sha256-xZdmDLrDtJXDfkGg1C+99h3f0P\/GzO2ZoNDtzKu99uM=",
       "Realtime.dll": "sha256-kEbvClO2zF2FSdMFbUKBzX2bXvOaELAq3tfZwZpKosk=",
-      "SKUI.dll": "sha256-x10Wa8OdIhRTqpQueje5mFwdOoZ6CpXooAfAgVOwX74=",
+      "SKUI.dll": "sha256-eRuT3GY2WfKzP+qBoa6PxJS5TReON+DX\/cn7nEU1CDA=",
       "Storage.dll": "sha256-OMoBkl7kM0aQ2nGRhME9Db9+pCcyJLmwLS8mGZqNIA0=",
       "Supabase.dll": "sha256-TVvs8jpLCIRGVMra9DlT\/bb2WzbZTb29SmyO6GyzR+Q=",
       "System.Collections.Concurrent.dll": "sha256-O9m9cQ4Q64M07b7xJxILMAifEhUl8+7ud8Y\/\/Igf9dI=",
@@ -99,16 +99,16 @@
     "runtime": {
       "dotnet.6.0.16.z6eei5wb4a.js": "sha256-m+MQs85pZqUfLxDnYPbxpj8WHRogYQt\/juLd2ydPBPo=",
       "dotnet.timezones.blat": "sha256-u8KbOjPcD2\/Pcbb0HaYyOuxEMMBYBUoicERKuSq9KMU=",
-      "dotnet.wasm": "sha256-EmvBrGtUzFUGl3hqVfVm3jI5t5tZwBVPrNg3b7FFmtI=",
+      "dotnet.wasm": "sha256-ewuu1YNgLZ3sD+YT0Um\/W9iFTSQLREvRZ1rDA8bCOcU=",
+      "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
       "icudt_CJK.dat": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
       "icudt_EFIGS.dat": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
-      "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA=",
-      "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE="
+      "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-EmvBrGtUzFUGl3hqVfVm3jI5t5tZwBVPrNg3b7FFmtI="
+        "hash": "sha256-ewuu1YNgLZ3sD+YT0Um\/W9iFTSQLREvRZ1rDA8bCOcU="
       }
     },
     "satelliteResources": null
